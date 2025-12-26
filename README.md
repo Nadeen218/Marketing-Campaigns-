@@ -60,7 +60,7 @@ The **Gradient Boosting model** achieved the highest AUC score, making it the be
 
 ## 📂 Repository Contents
 - `Marketing_Campaigns.ipynb` – Full analysis, visualizations, and machine learning implementation
-- - `marketing_data.csv` – Project Dataset  
+- `marketing_data.csv` – Project Dataset  
 - `README.md` – Project overview and documentation  
 
 ---
